@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nick
 - 👀 I’m interested in Web Development , in new Blockchain WEB3 APIs and SDKs , in DataScience
 for some juicy Insights and in Database inteligence using SparkQl Schemantinc Web Technologies
-- 🌱 I’m currently learning Django Rest Framework , ether.js & web3.js stacks and Moralis.io Blockchain Middleware
-- 💞️ I’m looking to collaborate on a Web3 Project(like the next Idea behind a Decentrilized Autonomus Organization(DAO)||DEFI||NFTMarketPlace||CrossChainBridges) or an intersted Web2 Idea 
+- 🌱 I’m a full stack web dev and web3 specialist
+- 💞️ I’m looking to collaborate on a Web3 Project(like the next Idea behind a Decentralized Autonomus Organization(DAO)||DEFI||NFTMarketPlace||CrossChainBridges) or an intersted Web2 Idea 
 - 📫 How to reach me just click my linkedIn link
 - I love Searching the Web to Answer my Questions!
 - I love Abstract Generative Art with AI  
