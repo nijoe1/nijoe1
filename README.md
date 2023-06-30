@@ -1,11 +1,16 @@
-- 👋 Hi, I’m Nick
-- 👀 I’m interested on new Blockchain technologies and on new machine learning teqniques
-- 🌱 I’m a full stack web dev and web3 specialist on ethereum and filecoin
-- 💞️ I’m looking to collaborate on a Web3 Project(like the next Idea behind a Decentralized Autonomus Organization(DAO)||DEFI||NFTMarketPlace||CrossChainBridges) or an interested Web2 Idea 
-- 📫 How to reach me just click my linkedIn link
-- I love Searching the Web to Answer my Questions!
-- I love Abstract Generative Art with AI  
-- Bored Waiting the Web3 Boom? Lets Develop it together to reward ourselfs and our Community!
-- Because WEB3 gives you feedback and fame for your work!
+### 👋 Hi, I’m Nick
+
+- 🌐 Full Stack Web3 Developer
+- 🏢 Specialized in NFTs, DAOs, ZKProofs, Account Abstraction, Multisigs
+- 🎨 Passionate about art and technology, creating innovative NFT applications
+- 🔐 Expertise in ZKProofs with circom and snarkjs
+- 💻 Extensive knowledge of Filecoin and FEVM
+- 🤝 Open to collaborating on groundbreaking Web3 projects
+- 🌍 Deeply passionate about learning and staying updated in Web3
+- ⏳ Let's shape the future of Web3 together!
+
+
+
+
 
 
