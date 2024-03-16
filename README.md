@@ -46,9 +46,6 @@
 </div>
   <div style="width: 50%;">
     <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nijoe1&show_icons=true&locale=en&layout=compact" alt="nijoe1" />
-    </p>
-    <p>
       <img src="https://github-readme-stats.vercel.app/api?username=nijoe1&show_icons=true&locale=en" alt="nijoe1" />
     </p>
   </div>
