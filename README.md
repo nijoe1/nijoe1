@@ -25,7 +25,8 @@
 </p>
 
 <h3 align="center">Tools & IDE </h3>
-<p align="center"><a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="50" height="40"/> </a>  <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="truffle" width="40" height="40"/> </a><a href="https://trufflesuite.com/ganache/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" alt="ganache" width="40" height="40"/> </a>
+<p align="center"><a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="50" height="40"/> </a>  <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="truffle" width="40" height="40"/> </a><p align="center"> <a href="https://github.com/foundry-rs" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="foundry" width="30" height="40"/> </a>
+
 <a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/420/1*3jj5tQildSIyhl-RO6RLlA.png" alt="remix" width="40" height="40"/> </a> <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png" alt="metmask" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -33,7 +34,6 @@
 </p>
 
 <h3 align="center">Blockchains & SDKs </h3>
-<p align="center"> <a href="https://github.com/foundry-rs" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="foundry" width="30" height="40"/> </a>
 <p align="center"> <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" alt="ethereum" width="30" height="40"/> </a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/polygon-matic-logo.png" alt="polygon" width="40" height="40"/> </a>
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" width="40" height="40"/> </a>
